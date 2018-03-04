@@ -3,7 +3,7 @@
 
  
 Script sources: <br/>
-[Mapping Data from Eurostat using R](rstudio-pubs-static.s3.amazonaws.com/8955_871d064627354ed489b8c28b78ef1d0b.html) <br/>
-[Viktoria Wagner's website](viktoriawagner.weebly.com/blog/euromed-base-map-in-r)
+[Mapping Data from Eurostat using R](http://rstudio-pubs-static.s3.amazonaws.com/8955_871d064627354ed489b8c28b78ef1d0b.html) <br/>
+[Viktoria Wagner's website](http://viktoriawagner.weebly.com/blog/euromed-base-map-in-r)
 
 
