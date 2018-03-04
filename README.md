@@ -1,4 +1,4 @@
-Introduction to quantitative text analysis using R (from data retrieval to graphical representation) <br/>
+**Introduction to quantitative text analysis using R (from data retrieval to graphical representation)** <br/>
 => Script initially written for a tutorial for Master students within the course "Data Tools for Political and Policy Analysis", given by Dr. Roy Gava at the University of Geneva.
 
  
